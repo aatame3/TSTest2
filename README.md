@@ -1,0 +1,1 @@
+TypeScriptはおろか、JavaScriptすらかけません
